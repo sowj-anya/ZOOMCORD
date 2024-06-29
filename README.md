@@ -1,6 +1,6 @@
-# Google Meet Clone
+# ZOOMCORD
 
-a web-based video conferencing application, closely replicating the functionalities of Google Meet.
+a web-based video conferencing application, closely replicating the functionalities of online meeting apps.
 
 
 
